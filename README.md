@@ -1,5 +1,6 @@
 # bounty-test
 It's Bounty Assesment Test
+https://docs.google.com/document/d/10bexswLi2zzZrjrBGHhfnhLWGVQkj1fsxsVcSqLlTms/edit
 
 For Coding Test, feel free look at main.py
 I used FastAPI (Python Framework) for prototyping API
